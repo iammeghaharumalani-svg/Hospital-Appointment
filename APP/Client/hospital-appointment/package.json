@@ -48,9 +48,9 @@
     ]
   },
   "overrides": {
-    "postcss": "8.4.31",
+    "postcss": "7.0.39",
     "postcss-safe-parser": {
-      "postcss": "8.4.31"
+      "postcss": "7.0.39"
     }
   }
 }
